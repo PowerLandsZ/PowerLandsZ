@@ -3,8 +3,6 @@
 Languages:
 
 ![Flutter](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=B1C12B)
-![Flutter](https://img.shields.io/badge/-Bukkit.API-090909?style=for-the-badge&logo=minecraft&logoColor=4ce1fb)
-![Flutter](https://img.shields.io/badge/-Spigot.API-090909?style=for-the-badge&logo=minecraft&logoColor=fb0000)
 
 Follow me:
 
