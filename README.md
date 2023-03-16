@@ -13,4 +13,4 @@ Follow me:
 
 
 
-[![Header](https://github.com/PowerLands1/PowerLands1/blob/main/assets/portfolo.png)](https://vk.com/powerlandss)
+[![Header](https://github.com/PowerLands1/PowerLands1/blob/main/assets/portfolo.png)](https://vk.com/landsproject)
